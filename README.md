@@ -14,3 +14,5 @@ This is a simple GUI application built using PyQt5 that allows you to chat with 
 - **PyQt5**: Install PyQt5 using pip:
   ```bash
   pip install PyQt5
+
+Ollama: Ensure that the Ollama library is installed and properly configured to run the Llama3.1 model locally. You can install the library with:
