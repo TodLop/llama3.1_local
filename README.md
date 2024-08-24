@@ -35,19 +35,19 @@ This is a simple GUI application built using PyQt5 that allows you to chat with 
 
 ## Chat Interface
 
-   -The main window will open, allowing you to enter your messages in the text box at the bottom.
-   -Press 'Enter' or click the "Send Message" button to send your message to Llama3.1.
-   -The response from Llama3.1 will appear on the left side of the char interface, while your messages appear on the right.
+   - The main window will open, allowing you to enter your messages in the text box at the bottom.
+   - Press 'Enter' or click the "Send Message" button to send your message to Llama3.1.
+   - The response from Llama3.1 will appear on the left side of the char interface, while your messages appear on the right.
 
 ## Keyboard Shortcuts:
--Press Enter to send a message.
--Press Shift + Enter to add a new line within the message input field.
+- Press 'Enter' to send a message.
+- Press 'Shift + Enter' to add a new line within the message input field.
 
 ## Customization
--UI Customization:
-  -You can modify the look and feel of the chat bubbles by changing the styles in the display_message method in the code.
--Model and API Settings:
-  -The script is currently configured to use the Llama3.1 model. You can modify the OllamaWorker class if you wish to change the model or adjust API parameters.
+- **UI Customization:**
+  - You can modify the look and feel of the chat bubbles by changing the styles in the 'display_message' method in the code.
+- **Model and API Settings:**
+  - The script is currently configured to use the Llama3.1 model. You can modify the 'OllamaWorker' class if you wish to change the model or adjust API parameters.
 
 ---
 
