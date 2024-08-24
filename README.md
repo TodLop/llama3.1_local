@@ -43,7 +43,7 @@ This is a simple GUI application built using PyQt5 that allows you to chat with 
 -Press Enter to send a message.
 -Press Shift + Enter to add a new line within the message input field.
 
-##Customization
+## Customization
 -UI Customization:
   -You can modify the look and feel of the chat bubbles by changing the styles in the display_message method in the code.
 -Model and API Settings:
