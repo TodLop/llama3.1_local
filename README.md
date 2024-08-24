@@ -24,7 +24,6 @@ This is a simple GUI application built using PyQt5 that allows you to chat with 
    -Clone this repository to your local machine:
      ```bash
      git clone https://github.com/TodLop/7zip-compression-tool-for-upnote.git
-     ```
 2. **Install Dependencies:**
    -Ensure all dependencies are installed by running:
    
