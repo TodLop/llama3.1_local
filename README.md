@@ -51,4 +51,4 @@ This is a simple GUI application built using PyQt5 that allows you to chat with 
 
 ---
 
-This README.MD has been Created by OpenAI's GPT-4.
+This README.MD has been Created by OpenAI's GPT-4O.
